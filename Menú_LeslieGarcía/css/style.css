@@ -1,0 +1,67 @@
+/* ARCHIVO PERSONALIZADO DE ESTILOS */
+
+/* ------ ESTILOS GENERALES ----*/
+
+body {
+	font-family: 'Nunito', sans-serif;
+	background-color: #f4cfd2;
+	font-size: 16px;
+} 
+h1 {
+	font-family: 'Nunito', sans-serif;
+	color: #645463;
+	text-align: center;
+}
+
+h2, h4, h5, h6 {
+	font-family: 'Nunito', sans-serif;
+	color: #645463;
+}
+h3 {
+	font-family: 'Asap Condensed', sans-serif;
+	color: #645463;
+}
+h1 {
+	font-size: 3em;
+}
+h2 {
+	font-size: 2em;
+	background-color: #CBC17D;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	color: #772F1A;
+}
+.principal {
+	padding-left: 0;
+	padding-right: 0;
+}
+.contenidos {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+
+/* ------- Navegación -----*/
+.navegacion {
+	background-color: #9c0082 !important;
+}
+
+/* ----- Tablas ------*/
+.tabla-menu {
+	--bs-table-bg: transparent;
+}
+.tabla-menu h3 {
+	text-align: left;
+}
+
+
+/* ----- Cards ----*/
+.card {
+	margin-bottom: 20px;
+	background-color: #ffe3f8;
+
+}
+
+.baner {
+	align-items: center;
+}
